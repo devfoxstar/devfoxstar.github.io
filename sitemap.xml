@@ -35,7 +35,13 @@
 	</url>  
 	<url>
 		<loc>https://devfoxstar.github.io/category/test/</loc>
+	</url>   
+	<url>
+		<loc>https://devfoxstar.github.io/web/devtools-failed-to-load-source-map/</loc>
 	</url>  
+	<url>
+		<loc>https://devfoxstar.github.io/kotlin/supertypes-classes-error/</loc>
+	</url> 
 	<url>
 		<loc>https://devfoxstar.github.io/database/cassandra-in-clause/</loc>
 	</url>   
