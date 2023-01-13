@@ -35,6 +35,12 @@
 	</url>  
 	<url>
 		<loc>https://devfoxstar.github.io/category/test/</loc>
+	</url>  
+	<url>
+		<loc>https://devfoxstar.github.io/category/spring/</loc>
+	</url>     
+	<url>
+		<loc>https://devfoxstar.github.io/spring/gradle-multi-module/</loc>
 	</url>     
 	<url>
 		<loc>https://devfoxstar.github.io/spring/documentation-plugins-bootstrapper-exception/</loc>
