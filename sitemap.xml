@@ -38,7 +38,13 @@
 	</url>  
 	<url>
 		<loc>https://devfoxstar.github.io/category/spring/</loc>
-	</url>     
+	</url>      
+	<url>
+		<loc>https://devfoxstar.github.io/spring/configuration-annotation-processor-not-configured/</loc>
+	</url>      
+	<url>
+		<loc>https://devfoxstar.github.io/spring/datasource-property-setting/</loc>
+	</url>    
 	<url>
 		<loc>https://devfoxstar.github.io/web/network-port-kill/</loc>
 	</url>      
