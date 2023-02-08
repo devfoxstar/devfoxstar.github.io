@@ -1,4 +1,4 @@
-### Web Developer 여우별의 블로그
-* Web, Java, ASP.NET, Python, React
+### 개발자 여우별의 블로그
+* Java, Kotlin, ASP.NET
 * Gatsby GitHub Pages
 * FlexiBlog Theme
