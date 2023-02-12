@@ -38,6 +38,15 @@
 	</url>  
 	<url>
 		<loc>https://devfoxstar.github.io/category/spring/</loc>
+	</url>  
+	<url>
+		<loc>https://devfoxstar.github.io/category/development/</loc>
+	</url>      
+	<url>
+		<loc>https://devfoxstar.github.io/kotlin/functional-programming/</loc>
+	</url>      
+	<url>
+		<loc>https://devfoxstar.github.io/development/dsl/</loc>
 	</url>      
 	<url>
 		<loc>https://devfoxstar.github.io/kotlin/null-safety/</loc>
