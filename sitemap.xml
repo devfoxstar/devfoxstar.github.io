@@ -43,6 +43,12 @@
 		<loc>https://devfoxstar.github.io/category/development/</loc>
 	</url>      
 	<url>
+		<loc>https://devfoxstar.github.io/spring/swagger-base-path/</loc>
+	</url>       
+	<url>
+		<loc>https://devfoxstar.github.io/spring/swagger-path-error/</loc>
+	</url>      
+	<url>
 		<loc>https://devfoxstar.github.io/spring/batch-table-does-not-exist/</loc>
 	</url>      
 	<url>
