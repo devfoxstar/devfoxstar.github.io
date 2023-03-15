@@ -41,7 +41,13 @@
 	</url>  
 	<url>
 		<loc>https://devfoxstar.github.io/category/php/</loc>
+	</url>  
+	<url>
+		<loc>https://devfoxstar.github.io/category/mq/</loc>
 	</url>         
+	<url>
+		<loc>https://devfoxstar.github.io/mq/kafka-run-failed/</loc>
+	</url>          
 	<url>
 		<loc>https://devfoxstar.github.io/spring/gradle-dependencies-library-error/</loc>
 	</url>         
