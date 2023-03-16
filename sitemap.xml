@@ -46,10 +46,13 @@
 		<loc>https://devfoxstar.github.io/category/mq/</loc>
 	</url>         
 	<url>
+		<loc>https://devfoxstar.github.io/mq/kafka-consumer-exception/</loc>
+	</url>         
+	<url>
 		<loc>https://devfoxstar.github.io/kotlin/lateinit-propertyinitialized-error/</loc>
 	</url>          
 	<url>
-		<loc>https://devfoxstar.github.io/mq/kafka-run-failed/</loc>
+		<loc>https://devfoxstar.github.io/mq/kafka-run-failed-in-windows/</loc>
 	</url>          
 	<url>
 		<loc>https://devfoxstar.github.io/spring/gradle-dependencies-library-error/</loc>
