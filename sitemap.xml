@@ -46,7 +46,10 @@
 		<loc>https://devfoxstar.github.io/category/mq/</loc>
 	</url>         
 	<url>
-		<loc>https://devfoxstar.github.io/mq/kafka-consumer-exception/</loc>
+		<loc>https://devfoxstar.github.io/mq/kafka-install-and-command-in-windows/</loc>
+	</url>         
+	<url>
+		<loc>https://devfoxstar.github.io/mq/kafka-install-and-command-in-mac/</loc>
 	</url>         
 	<url>
 		<loc>https://devfoxstar.github.io/kotlin/lateinit-propertyinitialized-error/</loc>
