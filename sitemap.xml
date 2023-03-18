@@ -44,7 +44,10 @@
 	</url>  
 	<url>
 		<loc>https://devfoxstar.github.io/category/mq/</loc>
-	</url>         
+	</url>          
+	<url>
+		<loc>https://devfoxstar.github.io/kotlin/serialization-json/</loc>
+	</url>        
 	<url>
 		<loc>https://devfoxstar.github.io/mq/kafka-install-and-command-in-windows/</loc>
 	</url>         
