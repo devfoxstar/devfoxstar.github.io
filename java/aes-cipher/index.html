@@ -82,8 +82,7 @@ public class AESCipher {
         SecretKeySpec secretKeySpec = new SecretKeySpec(key.getBytes(), &quot;AES&quot;);
 
         Cipher cipher = Cipher.getInstance(algorithm);
-        cipher.init(Cipher.DECRYPT_MODE, secretKeySpec, iv);
-        
+        cipher.init(Cipher.DECRYPT_MODE, secretKeySpec, iv);        
         byte[] decrypted = cipher.doFinal(Base64.getDecoder().decode(s));
 
         return new String(decrypted, &quot;UTF-8&quot;);
