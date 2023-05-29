@@ -44,7 +44,13 @@
 	</url>  
 	<url>
 		<loc>https://devfoxstar.github.io/category/mq/</loc>
-	</url>           	
+	</url>            	
+	<url>
+		<loc>https://devfoxstar.github.io/kotlin/invoke-method/</loc>
+	</url>            	
+	<url>
+		<loc>https://devfoxstar.github.io/mq/kafka-retention-ms/</loc>
+	</url>          	
 	<url>
 		<loc>https://devfoxstar.github.io/java/aes-cipher/</loc>
 	</url>            	
