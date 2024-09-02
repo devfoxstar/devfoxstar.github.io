@@ -44,7 +44,19 @@
 	</url>  
 	<url>
 		<loc>https://devfoxstar.github.io/category/mq/</loc>
-	</url>		
+	</url>  
+	<url>
+		<loc>https://devfoxstar.github.io/category/developer/</loc>
+	</url>  
+	<url>
+		<loc>https://devfoxstar.github.io/category/development/</loc>
+	</url>
+	<url>
+		<loc>https://devfoxstar.github.io/developer/interview-knowhow/</loc>
+	</url>
+	<url>
+		<loc>https://devfoxstar.github.io/developer/interview/</loc>
+	</url>
 	<url>
 		<loc>https://devfoxstar.github.io/spring/transactional/</loc>
 	</url>
